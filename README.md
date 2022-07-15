@@ -1,4 +1,4 @@
-### Hey there!! I’m zerobottt 👋
+### Hey there!! I’m Jose Roberto 👋
 - 🎯 | I'm interested in study of new technologies
 - 🧑‍💻 | Brazilian student of Computer Science - IFG
 - 🚀 | 2nd of 8 terms (semesters)
