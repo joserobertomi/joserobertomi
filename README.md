@@ -1,6 +1,6 @@
 ### Hey there!! I’m zerobottt 👋
 - 🌱 I’m interested in study new technlogies and understand how they work
-- 👨‍💻 I’m brazilian student of Computer Science
+- 👨‍💻 Brazilian student of Computer Science
 - 🤖 My Discord: zebottt#5994
 - 📫 My contats below:
   
