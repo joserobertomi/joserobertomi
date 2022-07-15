@@ -1,8 +1,9 @@
 ### Hey there!! I’m zerobottt 👋
-- 🌱 I’m interested in study new technlogies and understand how they work
-- 👨‍💻 Brazilian student of Computer Science
-- 🤖 My Discord: zebottt#5994
-- 📫 My contats below:
+- 🎯 | I'm interested in study of new technologies
+- 🧑‍💻 | Brazilian student of Computer Science - IFG
+- 🚀 | 2nd of 8 terms (semesters)
+- 🤖 | My Discord: zebottt#5994
+- 📫 | My contats below:
   
   <a href="https://www.instagram.com/zerobottt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joserobertomi1203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
