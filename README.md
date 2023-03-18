@@ -1,7 +1,7 @@
 ### Hey there!! I’m Jose Roberto 👋
 - 🎯 | I'm interested in study of new technologies
 - 💻 | Brazilian student of Computer Science - IFG
-- 🚀 | 2nd of 8 terms (semesters)
+- 🚀 | 3rd of 8 terms (semesters)
 - 🤖 | My Discord: zerobala#5994
 - 📫 | My contats below:
   
