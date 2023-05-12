@@ -1,15 +1,16 @@
 ### Hey there!! I’m Jose Roberto 👋
-- 🎯 | I'm interested in study of new technologies
-- 💻 | Brazilian student of Computer Science - IFG
-- 🚀 | 3rd of 8 terms (semesters)
-- 🤖 | My Discord: zerobala#5994
-- 📫 | My contats below:
+👨‍🎓 | Estudante de Ciência da Computação
+📌 | Instituto Federal de Goiás - IFG
+🧑‍💻 | Futuro software engineer
+📚 | Inovação + Tecnologia
+🤖 | My Discord: zerobala#5994
+📫 | My contats below:
   
   <a href="https://www.instagram.com/jrcodee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joserobertomi@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-roberto-mendonca-inacio-b41581245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-##
+
 
 <!---
 <div align="center">
