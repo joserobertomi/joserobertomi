@@ -1,7 +1,7 @@
-### Hey there!! I’m Jose Roberto 👋
-- 👨‍🎓 | Estudante de Ciência da Computação
-- 📌 | Instituto Federal de Goiás - IFG
-- 🧑‍💻 | Futuro cientista de dados
+### Fala comigo!! Eu sou o José 👋
+- 👨‍🎓 | Estudante de Ciência da Computação;
+- 📌 | Instituto Federal de Goiás - IFG; 
+- 🧑‍💻 | Futuro cientista de dados; 
 - 📫 | My contats below:
   
   <a href="https://www.instagram.com/joserobertomi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
