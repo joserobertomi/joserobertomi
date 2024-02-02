@@ -1,8 +1,8 @@
-### Fala comigo!! Eu sou o José 👋
-- 🧑‍💻 | Estudante de Ciência da Computação
-- 🎓 | Instituto Federal de Goiás
-- 🇧🇷 | 19 anos 
-- 📫 | Meus contatos:
+### Hello there!! My name is Jose 👋
+- 🧑‍💻 | Computer Science Student 
+- 🎓 | Federal Institute of Goias
+- 🇧🇷 | Brazilian and 20 years
+- 📫 | My contacts:
   
   <a href="https://www.instagram.com/joserobertomi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joserobertomi@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
